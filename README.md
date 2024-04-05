@@ -1,3 +1,4 @@
-- Bacon
-- Eggs
-- Xbox
+- Bread
+- Cheese
+- Cat Food
+- Dr. Pepper
